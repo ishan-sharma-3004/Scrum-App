@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries or feedback, feel free to reach out to:
 - Ishan Sharma
-- [Email](mailto:ishu.ishan3004@gmail.com.com)
+- [Email](mailto:ishu.ishan3004@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ishan-sharma-sjsu)
 
 ---
