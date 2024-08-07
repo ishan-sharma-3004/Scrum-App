@@ -33,9 +33,6 @@ To view the project, follow these steps:
 - **Progress Visualization**: Visualize sprint progress with intuitive charts and graphs.
 - **Offline Accessibility**: Manage sprints even without an internet connection, thanks to integrated local storage solutions.
 
-## Screenshots
-(Add screenshots of the app here to showcase the user interface and features.)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -45,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries or feedback, feel free to reach out to:
 - Ishan Sharma
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/ishan-sharma-3004)
+- [Email](mailto:ishu.ishan3004@gmail.com.com)
+- [LinkedIn](https://www.linkedin.com/in/ishan-sharma-sjsu)
 
 ---
